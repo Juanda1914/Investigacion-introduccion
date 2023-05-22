@@ -1,4 +1,7 @@
 # Investigacion-introduccion
+
+Cesar Enrique Benavides-Juan David Suarez Parra
+
 #  PRUEBAS UNITARIAS:
 Las pruebas unitarias consisten en aislar una parte del código y comprobar que funciona a la perfección. Son pequeños tests que validan el comportamiento de un objeto y la lógica.
 El unit testing suele realizarse durante la fase de desarrollo de aplicaciones de software o móviles. Normalmente las llevan a cabo los desarrolladores, aunque en la práctica, también pueden realizarlas los responsables de QA.
